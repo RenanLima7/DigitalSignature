@@ -1,7 +1,5 @@
-﻿using DigitalSignature.Model;
-using System;
+﻿using DigitalSignatureAPI.Model;
 using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 
 namespace DigitalSignatureAPI.Repository

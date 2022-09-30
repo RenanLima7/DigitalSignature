@@ -1,4 +1,4 @@
-﻿namespace DigitalSignature.Model
+﻿namespace DigitalSignatureAPI.Model
 {
     public class Ana : User
     {

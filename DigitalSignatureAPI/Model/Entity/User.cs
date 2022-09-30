@@ -1,6 +1,6 @@
 ﻿using DigitalSignatureAPI.Model.Entity;
 
-namespace DigitalSignature.Model
+namespace DigitalSignatureAPI.Model
 {
     public class User
     {

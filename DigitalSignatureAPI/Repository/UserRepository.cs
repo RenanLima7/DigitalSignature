@@ -1,4 +1,4 @@
-﻿using DigitalSignature.Model;
+﻿using DigitalSignatureAPI.Model;
 using DigitalSignatureAPI.Model.DataBase;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;

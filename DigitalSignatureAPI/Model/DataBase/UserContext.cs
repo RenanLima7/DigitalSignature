@@ -1,5 +1,4 @@
-﻿using DigitalSignature.Model;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace DigitalSignatureAPI.Model.DataBase
 {
